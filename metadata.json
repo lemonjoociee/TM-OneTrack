@@ -1,0 +1,6 @@
+{
+  "name": "NOC & OPS Management Portal",
+  "description": "Unified enterprise operations management portal combining the NOC operational dashboard and executive OPS issue tracker with role-based access, local AI Ollama ingestion for Outlook & WhatsApp, and Netlify deployment support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
